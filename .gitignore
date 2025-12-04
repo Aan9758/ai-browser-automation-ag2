@@ -1,0 +1,26 @@
+# ---- Python Virtual Environment ----
+.venv/
+env/
+venv/
+
+# ---- Playwright Browser Storage ----
+browser_data/
+
+# ---- Sensitive Files ----
+.env
+
+# ---- Python Cache ----
+__pycache__/
+*.pyc
+
+# ---- Logs ----
+*.log
+
+# ---- Temporary Outputs / Screenshots ----
+*.png
+*.jpg
+
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+desktop.ini

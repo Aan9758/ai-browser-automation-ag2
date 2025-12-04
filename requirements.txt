@@ -1,0 +1,28 @@
+playwright==1.40.0
+openai==1.6.0
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+loguru==0.7.2
+# AutoGen Framework (same as Magentic-UI)
+autogen-agentchat==0.5.7
+autogen-core==0.5.7
+autogen-ext[web-surfer,openai]==0.5.7
+
+# Browser Automation
+playwright==1.40.0
+
+# AI/LLM
+openai==1.6.0
+
+# Web Framework (for later)
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
+loguru==0.7.2
+
